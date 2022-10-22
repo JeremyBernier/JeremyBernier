@@ -6,6 +6,8 @@ Check out my /knowledge repo for some useful code samples + boilerplates
 
 Follow me on Twitter @jeremybernier for the latest updates
 
+Reach out through my personal website jbernier.com if you want to hire me (open to part-time and full-time)
+
 Have a nice day!
 
 <!-- - 👋 Hi, I’m @JeremyBernier
