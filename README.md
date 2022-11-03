@@ -1,6 +1,6 @@
 Hi, I'm @JeremyBernier.
 
-Currently building zsync.xyz and some other cool projects.
+Currently building zsync.xyz, nomadz.app and some other cool projects.
 
 Check out my /knowledge repo for some useful code samples + boilerplates
 
