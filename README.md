@@ -1,12 +1,12 @@
-Hi, I'm @JeremyBernier.
+Hi, I'm [Jeremy Bernier](https://www.jbernier.com/).
 
-Currently building zsync.xyz, nomadz.app and some other cool projects.
+Currently building [zsync.xyz](https://zsync.xyz/) (web3 Reddit), [nomadz.app](https://nomadz.app/) (cool free places to work for digital nomads), and some other cool projects.
 
-Check out my /knowledge repo for some useful code samples + boilerplates
+Check out my [/knowledge](https://github.com/JeremyBernier/knowledge) repo for some useful code samples + boilerplates
 
-Follow me on Twitter @jeremybernier for the latest updates
+Follow me on Twitter [@jeremybernier](https://twitter.com/jeremybernier) for the latest updates
 
-Reach out through my personal website jbernier.com if you want to hire me (open to part-time and full-time)
+Reach out through my personal website [jbernier.com](https://www.jbernier.com/) if you want to hire me (open to part-time and full-time)
 
 Have a nice day!
 
