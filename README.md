@@ -1,4 +1,4 @@
-Hi, I'm [Jeremy Bernier](https://www.jbernier.com/). Currently a founding engineer at [Outerbase](https://www.outerbase.com/)
+Hi, I'm [Jeremy Bernier](https://www.jbernier.com/).
 
 Some of my personal projects (mostly still under construction):
 - [zsync.xyz](https://zsync.xyz/) (web3 Reddit)
