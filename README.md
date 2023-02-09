@@ -1,9 +1,9 @@
 Hi, I'm [Jeremy Bernier](https://www.jbernier.com/).
 
 Some of my personal projects (mostly still under construction):
+- [yume.fyi](https://yume.fyi) Notion clone + publishing tool
 - [zsync.xyz](https://zsync.xyz/) (web3 Reddit)
 - [nomadz.app](https://nomadz.app/) (cool free places to work for digital nomads)
-- [yume.fyi](https://yume.fyi) Offline Notion Clone with Web Builder (under construction)
 - [pantherplayer.com](https://www.pantherplayer.com) Advanced podcast player (under construction)
 
 Check out my [/knowledge](https://github.com/JeremyBernier/knowledge) repo for some useful code samples + boilerplates
