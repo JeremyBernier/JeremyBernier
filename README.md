@@ -1,7 +1,7 @@
 Hi, I'm [Jeremy Bernier](https://www.jbernier.com/).
 
 Some of my personal projects (mostly still under construction):
-- [yume.fyi](https://yume.fyi) Notion clone + publishing tool
+- [mindgarden.app](https://mindgarden.app) Notion clone + publishing tool
 - [zsync.xyz](https://zsync.xyz/) web3 Reddit focused on high quality discussion
 - [nomadz.app](https://nomadz.app/) Cool free places to work for digital nomads
 - [pantherplayer.com](https://www.pantherplayer.com) Advanced podcast player (under construction)
