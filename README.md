@@ -6,7 +6,7 @@ Some of my personal projects (mostly still under construction):
 - [nomadz.app](https://nomadz.app/) Cool free places to work for digital nomads
 - [pantherplayer.com](https://www.pantherplayer.com) Advanced podcast player (under construction)
 
-Check out my [/knowledge](https://github.com/JeremyBernier/knowledge) repo for some useful code samples + boilerplates
+Check out my [/knowledge](https://github.com/JeremyBernier/knowledge) repo for some useful code samples, scripts, and boilerplates
 
 Follow me on Twitter [@jeremybernier](https://twitter.com/jeremybernier) for the latest updates
 
